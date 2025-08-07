@@ -1,10 +1,9 @@
-<h1 align="center">👋 Привет, я [Ваше Имя]</h1>
-<h3 align="center">Frontend Developer | React-энтузиаст | Студент ЧРТ</h3>
+<h1 align="center">👋 Привет, я Антон</h1>
+<h3 align="center">Frontend Developer | React-энтузиаст | Студент</h3>
 
 <p align="center">
-  <a href="mailto:ваша@почта.com">📧 Email</a> •
-  <a href="https://t.me/ваш_ник">💬 Telegram</a> •
-  <a href="https://vk.com/ваш_профиль">🌐 VK</a>
+  <a href="mailto:antonmeshanihin24012007@gmail.com">📧 Email</a> •
+  <a href="https://t.me/tishe4ks">💬 Telegram</a> •
 </p>
 
 ---
@@ -22,7 +21,6 @@
 **State Management и API:**  
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux)
 ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query)
 
 **Формы и валидация:**  
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=react-hook-form)
@@ -38,15 +36,12 @@
 
 #### Reordered ToDo List
 Интеллектуальный список задач с возможностью перетаскивания и приоритизацией.  
-**Стек:** React + TypeScript + Framer Motion
-
-#### Новая жизнь (New Life) 
-Доска объявлений для поиска пропавших животных (учебный проект).  
-**Стек:** React + Tailwind CSS + RTK Query
+(Сам пользуюсь для планирования)
+**Стек:** React + Tailwind CSS + Framer Motion + Redux Toolkit
 
 #### Система учета волонтеров (VOS) 
 Платформа для координации добровольцев (курсовой проект).  
-**Стек:** React + Redux Toolkit + Zod
+**Стек:** React + Tailwind CSS + React Hook Form + Zod + PHP
 
 ---
 
@@ -56,15 +51,3 @@
 - 🔍 Ищу возможности для профессионального роста
 - 📚 Активно изучаю современные фронтенд-технологии
 - ♻️ Принцип: "Решаю проблемы, а не пишу код"
-
----
-
-### 📊 GitHub статистика
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=dracula" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ваш_ник&label=Profile+Views&color=blueviolet" alt="ваш_ник" /> 
-</p>
